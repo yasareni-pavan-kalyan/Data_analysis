@@ -1,19 +1,19 @@
 # Data Analysis projects
 
-# Mentorness
+## Mentorness
 
-## 1. Cost Of Living Analysis
+### 1. Cost Of Living Analysis
 a. The data is taken from kaggle and used python to clean and create new datasets.
 b. Analysed the data using python.
 c. Visulaized the data using PowerBI.
 
-## 2. Hotel Reservation Analysis
+### 2. Hotel Reservation Analysis
 a. Used the data from kaggle.
 b. Analysed and answered the questions using sql queries.
 
-# 360DigiTMG
+## 360DigiTMG
 
-## 1. Medical Inventory Optimization
+### 1. Medical Inventory Optimization
 a. The data is given by the organisation and done research about the project medical inventory optimization.
 b. Used Python and sql to analyse the data and recommend the proper solution to the management based on the analysis.
 
